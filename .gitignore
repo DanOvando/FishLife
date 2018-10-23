@@ -3,6 +3,5 @@
 *.so
 .Rhistory
 
-*.Rproj
-*.Rproj.user
 .Rproj.user
+*.Rproj
